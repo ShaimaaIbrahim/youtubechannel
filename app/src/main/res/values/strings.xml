@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">YouTubeChannel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="part">snippet</string>
+    <string name="channelId">UC1NF71EwP41VdjAU1iXdLkw</string>
+    <string name="maxResult">5</string>
+    <string name="key">AIzaSyB43vfEpUD3NFH5ZV3l1UXcJOZ5aZ7SIZQ</string>
+    <string name="message_loading_prgoress_bar">Loading</string>
+    <string name="alert_dialog_button_ok">Ok</string>
+    <string name="part_resourse">snippet.resourseId</string>
 </resources>

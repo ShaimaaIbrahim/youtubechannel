@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<androidx.appcompat.widget.AppCompatImageView
+    android:layout_margin="5dp"
+    android:id="@+id/video_img"
+    android:layout_width="match_parent"
+    android:layout_height="200dp" />
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/video_title"
+        android:layout_below="@+id/video_img"
+        android:layout_margin="7dp"
+        android:text="jjdhfh jfhf fjff fjhff"
+        />
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="3 . 90 905"
+        android:layout_below="@+id/video_title"
+        android:layout_margin="7dp"
+        android:id="@+id/published_at"/>
+</RelativeLayout>
